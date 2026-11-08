@@ -409,9 +409,9 @@ function pintarPie() {
         </div>
       </div>
 
-      <div class="pie__creditos">
-        <p>Sitio web del Pregrado en Construcción · Diseñado con identidad arquitectónica y tecnología web moderna.</p>
-        <p>Universidad Nacional de Colombia · Sede Medellín · 2026</p>
+            <div class="pie__legal">
+        <p class="pie__legal-texto">Proyecto de apoyo estudiantil sin ánimo de lucro, de carácter académico e informativo para la comunidad universitaria de la Universidad Nacional de Colombia (Sede Medellín).</p>
+        <p class="pie__copyright">© 2026 · Todos los derechos reservados.</p>
       </div>
     </footer>`;
 }

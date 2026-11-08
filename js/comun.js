@@ -54,8 +54,18 @@ const PAGINAS = [
     icono: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18M5 21V5l7-3 7 3v16M9 9h1M14 9h1M9 13h1M14 13h1M9 17h1M14 17h1M9 21v-4h6v4"/></svg>'
   },
   {
-    id: 'malla',
+    id: 'avance',
     numero: '02',
+    texto: 'Mi Avance',
+    tituloCompleto: 'Mi Avance en la Carrera',
+    url: 'avance.html',
+    cota: '+1.75m',
+    badge: 'NUEVO',
+    icono: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>'
+  },
+  {
+    id: 'malla',
+    numero: '03',
     texto: 'Malla',
     tituloCompleto: 'Malla Curricular',
     url: 'malla.html',
@@ -65,7 +75,7 @@ const PAGINAS = [
   },
   {
     id: 'intercampus',
-    numero: '03',
+    numero: '04',
     texto: 'Intercampus',
     tituloCompleto: 'Rutas Intercampus y Metro',
     url: 'intercampus.html',
@@ -75,7 +85,7 @@ const PAGINAS = [
   },
   {
     id: 'convenios',
-    numero: '04',
+    numero: '05',
     texto: 'Convenios',
     tituloCompleto: 'Convenios y Beneficios',
     url: 'convenios.html',
@@ -85,7 +95,7 @@ const PAGINAS = [
   },
   {
     id: 'info',
-    numero: '05',
+    numero: '06',
     texto: 'Información',
     tituloCompleto: 'Información General y Trámites',
     url: 'info.html',
